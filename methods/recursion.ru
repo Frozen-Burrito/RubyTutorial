@@ -8,3 +8,5 @@ def factorial(n)
 end
 
 puts factorial(5) # Outputs 120
+
+# Must have a base case (1! = 1)
